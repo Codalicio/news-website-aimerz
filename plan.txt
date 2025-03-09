@@ -1,0 +1,26 @@
+1. logo
+
+2. NavBar
+
+3. Section 1
+    - Image
+    - h3
+    - h2
+    - p
+
+4. Section 2
+    - Image
+    - h3
+    - h2
+    - p
+
+5. Footer
+    - p
+    - links
+
+# Links :
+
+* Github :
+* Github Pages :
+* Netlify : 
+* Vercel : 
